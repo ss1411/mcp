@@ -63,8 +63,18 @@ pytest
 5. HuggingFace Deployment:
 
 ---
+## Streamlit deployment (option 1 - chosen option)
+1. create a streamlit community cloud account (use github for login)
+2. Go to streamlit UI 
+3. click on deploy (when you run your app, it's on the top right side)
+4. Provide necessary info (github repo, app url, etc)
+5. Your app is deployed
 
-## Hugging Face Spaces deployment
+Here is the link to my steamlit deployment:
+https://mcp-customer-support-chatbot.streamlit.app/
+
+
+## Hugging Face Spaces deployment (option 2)
 
 1. **Create a new Space**
 
